@@ -4,6 +4,7 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyVersion>11.10.2023</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
